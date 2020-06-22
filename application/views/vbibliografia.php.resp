@@ -1,0 +1,64 @@
+   
+<div class="container">
+    <div class="section">
+      <!--   Icon Section   -->
+      <div class="row">
+          <div class="col s12 m12">
+            <h4 class="letf white-text">Bibliografía</h4>
+          </div>
+      </div> 
+      <div class="row"> 
+          
+            </div>
+            <div class="row">  
+              <div class="col s12 m3">
+                <img src="<?php echo base_url();?>img/simon/simon_peq_2.jpg" width="200px" class="img-responsive" >      
+              </div>
+              <div class="col s12 m9">
+                  <h5 class="letf deep-orange-text">Simón A. Rondón Farías</h5>
+                  <h6 class="letf red-text">Violinista</h6>
+                  <p class="blue-grey-text text-lighten-4">Nació en Ciudad Guayana - Venezuela, donde a la 
+                  	corta edad de 6 años inicia sus estudios de música en el kínder musical de la 
+                  	Orquesta Nacional Juvenil “Juan José Landaeta”. El año siguiente se inicia en la 
+                  	cátedra de violín hasta la edad de  19 años recibiendo clase con diferentes 
+                  	maestros del Conservatorio de Música Simón Bolívar como Igor Lara, Fernando 
+                  	Fuentes, Borgan Ascanio, entre otros.
+                  <p class="blue-grey-text text-lighten-4">Durante los años 1993 hasta el 2003 formo parte de fila de violines de la Orquesta 
+                  	Sinfónica de Ciudad Guayana, cual pertenece al sistema nacional de Orquestas 
+                  	Sinfónicas de Venezuela al bajo la batuta de Ennio Palumbi, teniendo a su vez 
+                  	la oportunidad de estar bajo la dirección de prestigiosos maestros de talla nacional 
+                  	como internacional tales como: Igor Lanz, Rodolfo Saglimberni, Gustavo Medina, 
+                  	Nassir Hedariam, Inocente Carreño, Ruben Cóva, Aldemaro Romero, Gustavo Dudamel 
+                  	entre Otros. </p>
+                  	<p class="blue-grey-text text-lighten-4">En 2003 al iniciar sus estudios de Ingeniería 
+                  	en la Universidad de Oriente núcleo Bolívar – Venezuela, se incorpora en la 
+                  	estudiantina universitaria “Tono y Entono” como violinista donde dos años más tarde 
+                  	asume el papel de director y arreglista, participando en festivales nacionales hasta 
+                  	el 2010. También perteneció a la Estudiantina de Asociación de los Profesores de la 
+                  	Universidad de Oriente donde grabo su primera producción discográfica.</p>
+                  	<p class="blue-grey-text text-lighten-4">
+                  	Para el 2004 ingresa a la fila de violines de la Orquesta Nacional “Antonio Lauro” en 
+                  	Ciudad Bolívar – Venezuela, bajo la dirección del Maestro Dino Goncalvez hasta el año 
+                  	2008.</p>
+                  	<p class="blue-grey-text text-lighten-4">
+                  	En el 2005 funda la banda de rock sinfónico “8va Sorda” presentándose en los mejores 
+                  	eventos de rock de Ciudad Guayana hasta el 2009 y compartiendo tarima con grandes 
+                  	grupos de talla nacional e internacional.</p>
+                  	<p class="blue-grey-text text-lighten-4">
+                  	A partir del 2010 se inicia como solista de interpretando diversos géneros musicales 
+                  	tales como: Baladas, Pop, Boleros, Tango, Jazz, Música típica venezolana y latinoamericana, 
+                  	Rock, entre otros.</p>
+                  	<p class="blue-grey-text text-lighten-4">
+                  	Durante toda su carrera musical Simón Rondón a compartido tarima con artistas de la talla de 
+                  	Serenata Guayanesa, Ensamble Garrufio, Ensamble Orinoco, Ricardo Montaner, Toña Granado, 
+                  	Gallito Aponte, Simón Días, entre otros. </p>
+                  
+              </div>
+            </div>       
+    </div>
+ </div>
+
+
+
+     
+ 
